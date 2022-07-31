@@ -4,6 +4,33 @@ Hi, kottans! :upside_down_face: *(no, I'm not an Englishman, just pretending)*
 Since the war started I've decided to change my careеr. Here you can see how I cope with it, slowly but surely going forward (as you do). 
 > So get your fingers ready, and let's make some :fire:
 
+# Front-End Basics
+
+## Intro to HTML and CSS
+<details>
+<summary>Coursera & Freecodecamp tought me a lot</summary>
+
+### Coursera
+Here I took [Intro to Web Development](https://www.coursera.org/learn/web-development) course. This was my first course on Front-End (*along with freecodecamp course*). So here I got the basics. Now I feel that need more practice and projects to learn how use all of this better.  
+![Coursera_HTML](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_HTML.jpg)
+![Coursera_CSS](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_CSS.jpg)
+  
+### Freecodecamp 
+ 
+[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) this course tought me what is CSS Grid, Flexbox, Accessibiliti and other stuff. But I still need more time to get used to it. Ready to dive into practice!
+  
+![Codecamp_HTML](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_HTML.jpg)
+![Codecamp_CSS](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_CSS.jpg)
+![Codecamp_Flexbox](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Flexbox.jpg)
+![Codecamp_Grid](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Grid.jpg)
+![Codecamp_Accessibility](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Accessibility.jpg)
+![Codecamp_Responsive](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Responsive.jpg)
+![Codecamp_Applied_Design](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Applied_Design.jpg)
+  
+### Unsee
+[Seems fun](https://cantunsee.space/). Recommend!
+</details>
+
 ## Git Collaboration
 <details>
 <summary>Git, Git, Git</summary>
