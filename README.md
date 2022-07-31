@@ -61,8 +61,8 @@ Git-it is my favourite tool to aquire Git. This is a simple guide for Git newcom
 ![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/Gi-it%20done.jpg)
 
 ### 5. Articles
-'Git for 30 minute' was much more useful for me than the whole Learninbraching website. It was simple and not so messy. 
-Another 5 points from me goes to 'How to Cope with Negative Thoughts'. Kind of motivation article which would be useful for everyone at the start of the long way to expertise.
+[Git for 30 minutes](https://codeguida.com/post/453) was much more useful for me than the whole Learninbraching website. It was simple and not so messy. 
+Another 5 points from me goes to [How to Cope with Negative Thoughts](https://guides.hexlet.io/learning/). Kind of motivation article which would be useful for everyone at the start of the long way to expertise.
 
 So here is my advice - keep calm and get ready for new challenges!
 
