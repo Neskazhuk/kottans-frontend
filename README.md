@@ -1,3 +1,22 @@
+## Git Collaboration
+
+### 1. Udacity Git course done
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/Udacity%20Git%20course%20done.jpg)
+
+### 2. Learngitbranching done as well
+
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching1.jpg)
+
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching2.jpg)
+
+I finally understood that this site above is too much for me. 
+
+Instead I liked [Brian Yu's video](https://www.youtube.com/watch?v=MJUJ4wbFm_A&ab_channel=CS50) (*you can also find it in additional materials*). He uses simple examples explaining how Git works. That's why it's so simple and clear. Plus it takes only 40 minutes. So that you don't need these huge courses - just watch this one video instead. 
+
+![Video](https://user-images.githubusercontent.com/109435289/182037471-96f18834-e623-4e5e-8d92-a1fdf145c0aa.jpg)
+
+Yet I highly recommend ['Oh, shit Git!'](https://ohshitgit.com/#magic-time-machine) website ! It's fun and useful.
+
 ## Linux CLI, and HTTP
 Here are some points about **Linux**. 
 
