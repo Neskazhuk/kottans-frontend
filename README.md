@@ -18,7 +18,7 @@ What was new to me here - *auto* and *fit-content (200px)* attributes for grid-t
   ![Fit-content in action](/task_responsive_web_design/fi-content.jpg)
   </details>
 
-Yet, I got some practical info on how to work with [media queries](/task_responsive_web_design/media_query.png) as well. And yet, I didn't know about DevTool that allows you to [see what queries are applied](/task_responsive_web_design/devtool.png) on a specific website. 
+Yet, I got some practical info on how to work with [media queries](/task_responsive_web_design/media_query.png) as well. And yet, I didn't know about DevTool that allows you to [see what kind of queries were applied](/task_responsive_web_design/devtool.png) on a specific website. 
 
 ### Games 
 I passed Flex Frog, Grid Garden and first two levels of Flexbox Zombies
