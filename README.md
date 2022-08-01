@@ -12,8 +12,8 @@ Since the war started I've decided to change my careеr. Here you can see how I 
 
 ### Coursera
 Here I took [Intro to Web Development](https://www.coursera.org/learn/web-development) course. This was my first course on Front-End (*along with freecodecamp course*). So here I got the basics. Now I feel that need more practice and projects to learn how use all of this better.  
-![Coursera_HTML](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_HTML.jpg)
-![Coursera_CSS](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_CSS.jpg)
+![Coursera_HTML](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_HTML.png)
+![Coursera_CSS](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/Coursera_CSS.png)
   
 ### Freecodecamp 
  
@@ -36,13 +36,13 @@ Here I took [Intro to Web Development](https://www.coursera.org/learn/web-develo
 <summary>Git, Git, Git</summary>
 
 ### 1. Udacity Git course done
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/Udacity%20Git%20course%20done.jpg)
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/Udacity%20Git%20course%20done.png)
 
 ### 2. Learngitbranching done as well
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching1.jpg)
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learnbranching1.png)
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learngitbranching2.jpg)
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learnbranching2.png)
 
 I finally understood that this site above is too much for me. 
 
@@ -60,7 +60,7 @@ Yet I highly recommend ['Oh, shit Git!'](https://ohshitgit.com/#magic-time-machi
 
 I have already known some commands after working with Git Bush. So the first part of this course was quite easy for me. But the second one was hard. And hosetly it seemed to me simply unuseful. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_linux_cli/5.jpg)
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_linux_cli/linux_survival.png)
 
 </details>
 
@@ -75,12 +75,12 @@ Git wasn't easy. It took me much more time than I expected. But I'm not upset, c
 ### 2. Learngitbranching.js
 Learngitbranching was really horrible for me. The app was meant to be simple. But actually is wasn't. Two points for its developers (and zero for me). 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/Learning%20branches%20%201.jpg)
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/learnbranching1.png)
 
 ### 3. Learn typing.js
 I liked Typing Club website a lot, so I sticked there for some time. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/Learn%20typing.jpg) 
+![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/typing_club.png) 
 
 ### 4. Git-it
 Git-it is my favourite tool to aquire Git. This is a simple guide for Git newcomers. Plus it's available in Ukrainian. 
