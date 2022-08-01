@@ -1,7 +1,7 @@
 # General
 Hi, kottans! :upside_down_face: *(no, I'm not an Englishman, just pretending)*
 
-Since the war started I've decided to change my careеr. Here you can see how I cope with it, slowly but surely going forward (as you do). 
+Since the war started I've decided to change my careеr. Here you can see how I cope with it, slowly but surely going forward (as you do :trollface:). 
 > So get your fingers ready, and let's make some :fire:
 
 # Front-End Basics
