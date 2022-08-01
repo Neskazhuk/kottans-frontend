@@ -6,6 +6,28 @@ Since the war started I've decided to change my careеr. Here you can see how I 
 
 # Front-End Basics
 
+## Responsive Web Design
+<details>
+<summary>Grid, Flex and a bunch of games</summary>
+
+### Grid
+What was new to me here - *auto* and *fit-content (200px)* attributes for grid-template-columns. They fit a column due to its content. **Fit-content** in addition gives some restrictions - here, no more than 200px in width.
+  
+  <details><summary>Fit-content in action</summary>
+  
+  ![Fit-content in action](/task_responsive_web_design/fi-content.jpg)
+  </details>
+
+Yet, I got some practical info on how to work with [media queries](/task_responsive_web_design/media_query.png) as well. And yet, I didn't know about DevTool that allows you to [see what queries are applied](/task_responsive_web_design/devtool.png) on a specific website. 
+
+### Games 
+I passed Flex Frog, Grid Garden and first two levels of Flexbox Zombies
+![Flex Frog](/task_responsive_web_design/flex_frog.png)
+![Grid Garden](/task_responsive_web_design/grid_garden.png)
+![Flex Zombi](/task_responsive_web_design/flex_zombi.png)
+  
+</details>
+
 ## Intro to HTML and CSS
 <details>
 <summary>Coursera & Freecodecamp tought me a lot</summary>
@@ -19,13 +41,13 @@ Here I took [Intro to Web Development](https://www.coursera.org/learn/web-develo
  
 [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) this course tought me what is CSS Grid, Flexbox, Accessibiliti and other stuff. But I still need more time to get used to it. Ready to dive into practice!
   
-![Codecamp_HTML](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_HTML.jpg)
-![Codecamp_CSS](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_CSS.jpg)
-![Codecamp_Flexbox](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Flexbox.jpg)
-![Codecamp_Grid](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Grid.jpg)
-![Codecamp_Accessibility](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Accessibility.jpg)
-![Codecamp_Responsive](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Responsive.jpg)
-![Codecamp_Applied_Design](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_html_css_intro/freecodecamp_Applied_Design.jpg)
+![Codecamp_HTML](/task_html_css_intro/freecodecamp_HTML.jpg)
+![Codecamp_CSS](/task_html_css_intro/freecodecamp_CSS.jpg)
+![Codecamp_Flexbox](/task_html_css_intro/freecodecamp_Flexbox.jpg)
+![Codecamp_Grid](/task_html_css_intro/freecodecamp_Grid.jpg)
+![Codecamp_Accessibility](/task_html_css_intro/freecodecamp_Accessibility.jpg)
+![Codecamp_Responsive](/task_html_css_intro/freecodecamp_Responsive.jpg)
+![Codecamp_Applied_Design](/task_html_css_intro/freecodecamp_Applied_Design.jpg)
   
 ### Unsee
 [Seems fun](https://cantunsee.space/). Recommend!
@@ -36,13 +58,13 @@ Here I took [Intro to Web Development](https://www.coursera.org/learn/web-develo
 <summary>Git, Git, Git</summary>
 
 ### 1. Udacity Git course done
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/Udacity%20Git%20course%20done.png)
+![This is an image](/task_git_collaboration/Udacity%20Git%20course%20done.png)
 
 ### 2. Learngitbranching done as well
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learnbranching1.png)
+![This is an image](/task_git_collaboration/learnbranching1.png)
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_git_collaboration/learnbranching2.png)
+![This is an image](/task_git_collaboration/learnbranching2.png)
 
 I finally understood that this site above is too much for me. 
 
@@ -60,7 +82,7 @@ Yet I highly recommend ['Oh, shit Git!'](https://ohshitgit.com/#magic-time-machi
 
 I have already known some commands after working with Git Bush. So the first part of this course was quite easy for me. But the second one was hard. And hosetly it seemed to me simply unuseful. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/task_linux_cli/linux_survival.png)
+![This is an image](/task_linux_cli/linux_survival.png)
 
 </details>
 
@@ -70,22 +92,22 @@ I have already known some commands after working with Git Bush. So the first par
 ### 1. Udacity course on Git
 Git wasn't easy. It took me much more time than I expected. But I'm not upset, cause it was really useful and not boring at all. I've created a lot of sticky notes to ease my suffering (guess I'll need them in the future). So you can use them too. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/Git%20Sticks.jpg)
+![This is an image](/screenshots/Git%20Sticks.jpg)
 
 ### 2. Learngitbranching.js
 Learngitbranching was really horrible for me. The app was meant to be simple. But actually is wasn't. Two points for its developers (and zero for me). 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/learnbranching1.png)
+![This is an image](/screenshots/learnbranching1.png)
 
 ### 3. Learn typing.js
 I liked Typing Club website a lot, so I sticked there for some time. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/typing_club.png) 
+![This is an image](/screenshots/typing_club.png) 
 
 ### 4. Git-it
 Git-it is my favourite tool to aquire Git. This is a simple guide for Git newcomers. Plus it's available in Ukrainian. 
 
-![This is an image](https://github.com/Neskazhuk/kottans-frontend/blob/main/screenshots/Gi-it%20done.jpg)
+![This is an image](/screenshots/Gi-it%20done.jpg)
 
 ### 5. Articles
 [Git for 30 minutes](https://codeguida.com/post/453) was much more useful for me than the whole Learninbraching website. It was simple and not so messy. 
