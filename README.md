@@ -39,7 +39,7 @@ Here I took [Intro to Web Development](https://www.coursera.org/learn/web-develo
   
 ### Freecodecamp 
  
-[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) this course tought me what is CSS Grid, Flexbox, Accessibiliti and other stuff. But I still need more time to get used to it. Ready to dive into practice!
+[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course tought me what is CSS Grid, Flexbox, Accessibility and other stuff. But I still need more time to get used to it. Ready to dive into practice!
   
 ![Codecamp_HTML](/task_html_css_intro/freecodecamp_HTML.jpg)
 ![Codecamp_CSS](/task_html_css_intro/freecodecamp_CSS.jpg)
