@@ -6,7 +6,16 @@ Since the war started I've decided to change my careеr. Here you can see how I 
 
 # Front-End Basics
 
-## Responsive Web Design
+## 5. HTML & CSS Practice
+It took me a week to make a popup (hate it). Much more than I was expected. Here is 'TOP 3 challenges' I met while doing this task. 
+
+1. The most difficult part for me was to make it work when clicking on popup icon. I solved it with: .poput-input:checked ~ .popup-container {visibility:visible;}.
+2. Another challenge was to put 'More' button inside the item row. I solved it with: .more-btn::after {content: 'More';} (just leave it here to not forget). 
+3. Yet I had some troubles with tab order. Cause my elements order and user order were different. Tabindex helped, but not from the first try.
+
+Look at this beauty now: [my popup](https://neskazhuk.github.io/)   
+
+## 4. Responsive Web Design
 <details>
 <summary>Grid, Flex and a bunch of games</summary>
 
@@ -28,7 +37,7 @@ I passed Flex Frog, Grid Garden and first two levels of Flexbox Zombies
   
 </details>
 
-## Intro to HTML and CSS
+## 3. Intro to HTML and CSS
 <details>
 <summary>Coursera & Freecodecamp tought me a lot</summary>
 
@@ -53,7 +62,7 @@ Here I took [Intro to Web Development](https://www.coursera.org/learn/web-develo
 [Seems fun](https://cantunsee.space/). Recommend!
 </details>
 
-## Git Collaboration
+## 2. Git Collaboration
 <details>
 <summary>Git, Git, Git</summary>
 
@@ -75,7 +84,7 @@ Instead I liked [Brian Yu's video](https://www.youtube.com/watch?v=MJUJ4wbFm_A&a
 Yet I highly recommend ['Oh, shit Git!'](https://ohshitgit.com/#magic-time-machine) website ! It's fun and useful.
 </details>
 
-## Linux CLI, and HTTP
+## 1. Linux CLI, and HTTP
 <details><summary>Linux like a pro</summary>
 
 **Frankly saying**, I don't understand why we dive in so deeply inside this. It seems to me that we can do the same in SourceTree with much more less effords. Hope I'll use all of this one time. 
@@ -86,7 +95,7 @@ I have already known some commands after working with Git Bush. So the first par
 
 </details>
 
-## Git Basics
+## 0. Git Basics
 <details><summary>Udacity course, Git-it, Learn Typing and more</summary> 
 
 ### 1. Udacity course on Git
