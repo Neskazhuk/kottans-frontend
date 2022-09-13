@@ -6,6 +6,30 @@ Since the war started I've decided to change my careеr. Here you can see how I 
 
 # Front-End Basics
 
+## 6. JS Basics 
+It took me a month to do all of this. Plus, I additionaly started reading two books on JS: 
+- [Java Script Programming Language](https://uk.javascript.info/js);  
+- [Java Script for Kids](https://www.notion.so/neskazhu/JavaScript-aced198c6e35447e9e886a32410e122b). 
+
+The first one was more complicated and profound (I would say for intermediate learners). The second one was fun and easy. It's written in plain language and uses tons of simple empirical tasks. Highly recommend the last one :thumbsup:   
+
+<details><summary>Here is what I went through</summary>
+  
+  [JS Screenshots](/task_js_basics)
+  
+  </details>
+
+I'll say about my learning experience in general, providing you with my personal rating of all platforms and sources I've used. 
+
+### Five Sources for Learning JS: From Best to Worst
+1. Codecadamy. Simple explanation that makes things as clear as a bell. Perfect for newbies (as I am).
+2. 'JS for Kids' by Nick Morgan (I already told about it some lines above). 
+3. YouTube videos. When someone shows you how it works with nonconventional explaination - that always work well.   
+4. FreeCodeCamp. Here you will go through a lot of stuff (maybe even too much of it). But task explanation isn't easy. Often you don't even understand what they want you to do (even when using translation). Fortunately, there is 'Get help' button, so you can find solutions. 
+5. Coursera. Boring and unuseful.  
+
+Even after get all of this done, I don't feel I can use these knowlendge and do something by myself. That's because a lack of real experience in real projects. Hope, this will change in near future. Fingers crossed. :pray:  
+
 ## 5. HTML & CSS Practice
 It took me a week to make a popup (hate it). Much more than I was expected. Here is 'TOP 3 challenges' I met while doing this task. 
 
