@@ -22,11 +22,11 @@ The first one was more complicated and profound (I would say for intermediate le
 I'll say about my learning experience in general, providing you with my personal rating of all platforms and sources I've used. 
 
 ### Five Sources for Learning JS: From Best to Worst
-1. Codecadamy. Simple explanation that makes things as clear as a bell. Perfect for newbies (as I am).
-2. 'JS for Kids' by Nick Morgan (I already told about it some lines above). 
-3. YouTube videos. When someone shows you how it works with nonconventional explaination - that always work well.   
-4. FreeCodeCamp. Here you will go through a lot of stuff (maybe even too much of it). But task explanation isn't easy. Often you don't even understand what they want you to do (even when using translation). Fortunately, there is 'Get help' button, so you can find solutions. 
-5. Coursera. Boring and unuseful.  
+1. **Codecadamy**. Simple explanation that makes things as clear as a bell. Perfect for newbies (as I am).
+2. **'JS for Kids'** by Nick Morgan (told about this some lines above). 
+3. **YouTube videos**. When someone shows you how it works with nonconventional explaination - that always work well.   
+4. **FreeCodeCamp**. Here you will go through a lot of stuff (maybe even too much of it). But task explanation isn't easy. Often you don't even understand what they want you to do (even when using translation). Fortunately, there is 'Get help' button, so you can find solutions. 
+5. **Coursera**. Boring and unuseful.  
 
 Even after get all of this done, I don't feel I can use these knowlendge and do something by myself. That's because a lack of real experience in real projects. Hope, this will change in near future. Fingers crossed. :pray:  
 
