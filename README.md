@@ -1,4 +1,4 @@
-# General
+# Hello, world!
 Hi, kottans! :upside_down_face: *(no, I'm not an Englishman, just pretending)*
 
 Since the war started I've decided to change my careеr. Here you can see how I cope with it, slowly but surely going forward (as you do :trollface:). 
